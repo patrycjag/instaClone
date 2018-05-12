@@ -75,7 +75,7 @@ class ProfileTab extends Component {
           <View style={{paddingTop: 10}}>
             <View style = {{flexDirection: 'row'}}>
               <View style = {{flex: 1, alignItems: 'center'}}>
-                <Image source = {require('../../6.png')}
+                <Image source = {require('../../6.jpg')}
                   style = {{width:75, height:75, borderRadius: 37.5
                   }}/>
                 </View>

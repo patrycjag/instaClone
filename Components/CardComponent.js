@@ -17,7 +17,7 @@ class CardComponent extends Component {
         <CardItem>
           <Left>
               <Thumbnail source={require
-              ('../plan2018.png')} />
+              ('../6.jpg')} />
               <Body>
                   <Text> Patrycja </Text>
                   <Text note> April 04, 2018 </Text>

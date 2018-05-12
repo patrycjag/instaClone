@@ -35,7 +35,19 @@ class HomeTab extends Component {
                   }}>
                   <Thumbnail
                       style={{marginHorizontal: 5, borderColor: 'pink', borderWidth: 2}}
-                      source={require('../../plan2018.png')}/>
+                      source={require('../../6.jpg')}/>
+                  <Thumbnail
+                      style={{marginHorizontal: 5, borderColor: 'pink', borderWidth: 2}}
+                      source={require('../../5.jpg')}/>
+                  <Thumbnail
+                      style={{marginHorizontal: 5, borderColor: 'pink', borderWidth: 2}}
+                      source={require('../../4.jpg')}/>
+                  <Thumbnail
+                      style={{marginHorizontal: 5, borderColor: 'pink', borderWidth: 2}}
+                      source={require('../../3.jpg')}/>
+                  <Thumbnail
+                      style={{marginHorizontal: 5, borderColor: 'pink', borderWidth: 2}}
+                      source={require('../../2.jpg')}/>
                 </ScrollView>
               </View>
           </View>
